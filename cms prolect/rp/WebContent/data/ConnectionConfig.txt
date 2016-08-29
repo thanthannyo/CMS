@@ -1,0 +1,4 @@
+Driver: net.sourceforge.jtds.jdbc.Driver
+URL: jdbc:jtds:sqlserver://localhost:1433/CMS;instance=sqlexpress
+UserName:sa
+Password:HwPV+v0uOs0=

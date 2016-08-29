@@ -1,0 +1,8 @@
+{
+"app" : "iCBS",
+"appname" : "Easi Pay",
+"ver" : "1.0",
+"title" : "iCBS Financial Solution Version 1.0", 
+"apiurl" : "http://localhost:8080/rp/module001/", 
+"rpturl" : "http://localhost:8080/rp/reportapi/"
+}
